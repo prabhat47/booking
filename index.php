@@ -42,7 +42,7 @@
 		<!-- logged in user information -->
 		<?php  if (isset($_SESSION['username'])) : ?>
 			<p>Welcome <strong><?php echo $_SESSION['username']; ?></strong></p>
-
+      <a href="history.php"> History</a>
       <form method="post" action="search.php">
 
     		<?php include('errors.php'); ?>
