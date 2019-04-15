@@ -1,9 +1,9 @@
 # booking
 Change required database password in server.php
 
-Signup -> Register new user . 
-Login -> Existing user login . 
-Search -> search for existing transport . 
-Booking-> book a ticket . 
-History -> show transaction history . 
+Signup -> Register new user . <br/>
+Login -> Existing user login . <br/>
+Search -> search for existing transport .<br/> 
+Booking-> book a ticket . <br/>
+History -> show transaction history .<br/> 
   
